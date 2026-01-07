@@ -178,4 +178,108 @@ OBJETIVO:
 - Primeiro emprego: enfatizar portfolio e entrevistas
 - Transição: destacar transferência de skills
 - Crescimento: focar em skills avançadas
-\
+
+Excelente ajuste, Marcos! 👏  
+Colocar **GitHub logo no início** é estratégico: você já começa a registrar seus estudos, versionar código e construir portfólio desde o primeiro dia. Isso transmite profissionalismo e disciplina para recrutadores.  
+
+---
+
+## 📅 ROADMAP DE 180 DIAS (GitHub em primeiro lugar)  
+
+**ADAPTADO PARA: 20 horas/semana**  
+
+### MÊS 1 - GITHUB & FUNDAMENTOS  
+**SEMANA 1-2:**  
+- Criar conta no GitHub e configurar Git local  
+- Aprender comandos básicos: `git init`, `git add`, `git commit`, `git push`  
+- Criar seu primeiro repositório “Estudos-Ciência-de-Dados”  
+- Documentar cada semana em um README simples  
+
+**SEMANA 3-4:**  
+- Instalar ambiente Python (Anaconda/Jupyter)  
+- Aprender lógica de programação e sintaxe básica em Python  
+- Versionar notebooks no GitHub (commit após cada aula/prática)  
+
+### MÊS 2 - ESTATÍSTICA & MANIPULAÇÃO DE DADOS  
+**SEMANA 5-6:**  
+- Estatística descritiva e probabilidade  
+- Pandas e NumPy para manipulação de dados  
+- Criar repositório “Fundamentos-Python-Dados” com exemplos práticos  
+
+**SEMANA 7-8:**  
+- Visualização de dados com Matplotlib e Seaborn  
+- Publicar gráficos e análises no GitHub com README explicativo  
+
+### MÊS 3 - MACHINE LEARNING INICIAL  
+**SEMANA 9-10:**  
+- Introdução ao Machine Learning com Scikit-learn  
+- Treinar modelos simples (regressão linear, classificação)  
+- Criar repositório “ML-Básico” com notebooks e resultados  
+
+**SEMANA 11-12:**  
+- Documentar métricas de avaliação (accuracy, precision, recall)  
+- Publicar comparações de modelos no GitHub  
+
+### MÊS 4 - MACHINE LEARNING AVANÇADO  
+**SEMANA 13-14:**  
+- Árvores de decisão, random forest, gradient boosting  
+- Criar README com explicações didáticas dos algoritmos  
+
+**SEMANA 15-16:**  
+- Modelos não supervisionados (clustering, PCA)  
+- Publicar notebooks com visualizações de clusters  
+
+### MÊS 5 - CLOUD & IA  
+**SEMANA 17-18:**  
+- Introdução a Cloud (AWS/GCP/Azure)  
+- Criar repositório “Cloud-Experimentos” com scripts de deploy  
+
+**SEMANA 19-20:**  
+- Explorar APIs de IA (ex: reconhecimento de texto/imagem)  
+- Documentar integração Python + Cloud  
+
+### MÊS 6 - PORTFÓLIO & PREPARAÇÃO  
+**SEMANA 21-22:**  
+- Projeto final completo (dataset real + modelo + visualizações)  
+- Publicar no GitHub com README detalhado e apresentação  
+
+**SEMANA 23-24:**  
+- Revisar todos os repositórios, organizar README e pastas  
+- Simular entrevistas técnicas e comportamentais  
+
+---
+
+## 🗂️ Como organizar seu GitHub  
+
+**1. Estrutura de Repositórios**  
+- `Estudos-Ciência-de-Dados` → exercícios e anotações semanais  
+- `Fundamentos-Python-Dados` → manipulação e estatística  
+- `ML-Básico` → primeiros modelos  
+- `ML-Avançado` → algoritmos mais complexos  
+- `Cloud-Experimentos` → scripts e integrações  
+- `Projeto-Final` → portfólio principal  
+
+**2. README de cada repositório**  
+- **Título**: nome claro do projeto  
+- **Descrição**: objetivo do estudo/projeto  
+- **Tecnologias usadas**: Python, Pandas, Scikit-learn, etc.  
+- **Resultados**: gráficos, métricas, prints  
+- **Próximos passos**: melhorias futuras  
+
+**3. Boas práticas**  
+- Commits frequentes e descritivos (`git commit -m "Adiciona análise de regressão"`)  
+- Branches para testes (`feature/modelo-novo`)  
+- Issues para anotar ideias de melhorias  
+- GitHub Pages para publicar relatórios ou dashboards  
+
+**4. Portfólio visível**  
+- Fixar o repositório do projeto final no perfil  
+- Usar README do perfil (`profile/README.md`) para contar sua jornada  
+- Linkar projetos no LinkedIn  
+
+---
+
+✨ Agora seu roadmap começa com GitHub, garantindo que cada passo do aprendizado já esteja registrado e público.  
+
+Quer que eu monte um **modelo de README inicial** para você usar em todos os repositórios e só adaptar conforme o projeto?
+
